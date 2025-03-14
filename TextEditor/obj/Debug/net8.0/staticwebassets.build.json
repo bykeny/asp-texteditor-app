@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Vyps4kHhhCtDScDrqp4kf/sUQRFnZ7enMVfiLtPxrAk=",
+  "Hash": "mR/pZW8LdAna1lLPUdlBRJ4mEtPOwc4gxAjAA5vIDV8=",
   "Source": "TextEditor",
   "BasePath": "_content/TextEditor",
   "Mode": "Default",
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "3hvxfmpqcb",
+      "Integrity": "aUvqmsKZPmLqnzMRqFE4WAGsqMFtb8TxldsjuGQPy7E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
@@ -2663,7 +2663,7 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
+      "Route": "favicon.3hvxfmpqcb.ico",
       "AssetFile": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2673,7 +2673,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -2681,11 +2681,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"aUvqmsKZPmLqnzMRqFE4WAGsqMFtb8TxldsjuGQPy7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:41:21 GMT"
+          "Value": "Fri, 14 Mar 2025 14:40:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2695,7 +2695,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "3hvxfmpqcb"
         },
         {
           "Name": "label",
@@ -2703,7 +2703,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-aUvqmsKZPmLqnzMRqFE4WAGsqMFtb8TxldsjuGQPy7E="
         }
       ]
     },
@@ -2718,7 +2718,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -2726,11 +2726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"aUvqmsKZPmLqnzMRqFE4WAGsqMFtb8TxldsjuGQPy7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:41:21 GMT"
+          "Value": "Fri, 14 Mar 2025 14:40:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2740,7 +2740,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-aUvqmsKZPmLqnzMRqFE4WAGsqMFtb8TxldsjuGQPy7E="
         }
       ]
     },

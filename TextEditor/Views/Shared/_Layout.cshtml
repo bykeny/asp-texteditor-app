@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Nord</title>
+    <title>@ViewData["Title"] - DocuPro</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/TextEditor.styles.css" asp-append-version="true" />
@@ -11,30 +11,65 @@
     <script>
         tinymce.init({
           selector: 'textarea#tiny',
-              plugins: [
-                'a11ychecker', 'accordion', 'advlist', 'anchor', 'autolink', 'autosave',
-                'charmap', 'code', 'codesample', 'directionality', 'emoticons', 'exportpdf',
-                'exportword', 'fullscreen', 'help', 'image', 'importcss', 'importword',
-                'insertdatetime', 'link', 'lists', 'markdown', 'math', 'media', 'nonbreaking',
-                'pagebreak', 'preview', 'quickbars', 'save', 'searchreplace', 'table',
-                'visualblocks', 'visualchars', 'wordcount'
-              ],
-              toolbar: 'undo redo | accordion accordionremove | ' +
-                'importword exportword exportpdf | math | ' +
-                'blocks fontfamily fontsize | bold italic underline strikethrough | ' +
-                'align numlist bullist | link image | table media | ' +
-                'lineheight outdent indent | forecolor backcolor removeformat | ' +
-                'charmap emoticons | code fullscreen preview | save print | ' +
-                'pagebreak anchor codesample | ltr rtl',
-              menubar: 'file edit view insert format tools table help'
+          plugins: [
+            'a11ychecker', 'accordion', 'advlist', 'anchor', 'autolink', 'autosave',
+            'charmap', 'code', 'codesample', 'directionality', 'emoticons', 'exportpdf',
+            'exportword', 'fullscreen', 'help', 'image', 'importcss', 'importword',
+            'insertdatetime', 'link', 'lists', 'markdown', 'math', 'media', 'nonbreaking',
+            'pagebreak', 'preview', 'quickbars', 'save', 'searchreplace', 'table',
+            'visualblocks', 'visualchars', 'wordcount'
+          ],
+          toolbar: 'undo redo | accordion accordionremove | ' +
+            'importword exportword exportpdf | math | ' +
+            'blocks fontfamily fontsize | bold italic underline strikethrough | ' +
+            'align numlist bullist | link image | table media | ' +
+            'lineheight outdent indent | forecolor backcolor removeformat | ' +
+            'charmap emoticons | code fullscreen preview | save print | ' +
+            'pagebreak anchor codesample | ltr rtl',
+          menubar: 'file edit view insert format tools table help'
         })
     </script>
+    <style>
+        html, body {
+            height: 100%;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        main {
+            flex: 1;
+        }
+
+        /* Styling for document cards */
+        .doc-card {
+            width: 160px;
+            height: 220px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s ease-in-out;
+        }
+
+            .doc-card:hover {
+                transform: scale(1.05);
+            }
+
+        /* Custom button styling */
+        .btn-primary, .btn-danger, .btn-info {
+            padding: 10px 20px;
+            border-radius: 6px;
+        }
+    </style>
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Docs" asp-action="Index">Nord</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Docs" asp-action="Index">DocuPro</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -50,17 +85,17 @@
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+
+    <main role="main" class="pb-3 container">
+        @RenderBody()
+    </main>
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2025 - TextEditor - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - DocuPro - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
