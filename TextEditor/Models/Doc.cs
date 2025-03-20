@@ -13,5 +13,9 @@ namespace TextEditor.Models
         public string UserId { get; set; }
         [ForeignKey("UserId")]
         public IdentityUser? User { get; set; }
+        //[DataType(DataType.DateTime)]
+        //public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+        //[DataType(DataType.DateTime)]
+        //public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;
     }
 }

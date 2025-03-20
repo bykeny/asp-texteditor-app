@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/TextEditor.styles.css" asp-append-version="true" />
+    <link rel="icon" href="~/favicon.ico" />
     <script src="https://cdn.tiny.cloud/1/4od3y77mftakn2cdxb38hveyz62jzgap0xiyo91sm6a85uz1/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
     <script>
         tinymce.init({
@@ -63,6 +64,14 @@
             padding: 10px 20px;
             border-radius: 6px;
         }
+
+        footer {
+            box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
     </style>
 </head>
 <body>
@@ -90,9 +99,9 @@
         @RenderBody()
     </main>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top py-3 bg-light text-center">
         <div class="container">
-            &copy; 2025 - DocuPro - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <span class="text-muted">&copy; 2025 - DocuPro</span>
         </div>
     </footer>
 

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\kenan\\source\\repos\\TextEditor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\data\\migrations\\20250320131256_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\data\\migrations\\20250320131256_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\data\\migrations\\20250316203656_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\data\\migrations\\20250316203656_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\views\\docs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\views\\docs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\models\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\models\\doc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\views\\docs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\docs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\views\\docs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|c:\\users\\kenan\\source\\repos\\texteditor\\texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75499AA0-E7D7-4295-8904-DABD6BE54AF5}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,103 +47,102 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "TextEditor\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "TextEditor\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T18:15:59.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Delete.cshtml",
-              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Delete.cshtml",
-              "RelativeToolTip": "TextEditor\\Views\\Docs\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T12:58:05.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TextEditor\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TextEditor\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T12:51:09.373Z",
+              "Title": "20250320131256_Third.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Data\\Migrations\\20250320131256_Third.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Data\\Migrations\\20250320131256_Third.cs",
+              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Data\\Migrations\\20250320131256_Third.cs",
+              "RelativeToolTip": "TextEditor\\Data\\Migrations\\20250320131256_Third.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:12:56.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Index.cshtml",
-              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Index.cshtml",
-              "RelativeToolTip": "TextEditor\\Views\\Docs\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T12:26:07.434Z",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TextEditor\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:37:50.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250316203656_second.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Data\\Migrations\\20250316203656_second.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Data\\Migrations\\20250316203656_second.cs",
+              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Data\\Migrations\\20250316203656_second.cs",
+              "RelativeToolTip": "TextEditor\\Data\\Migrations\\20250316203656_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:36:56.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doc.cs",
+              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Models\\Doc.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Models\\Doc.cs",
+              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Models\\Doc.cs",
+              "RelativeToolTip": "TextEditor\\Models\\Doc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:34:30.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Edit.cshtml",
-              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Edit.cshtml",
-              "RelativeToolTip": "TextEditor\\Views\\Docs\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Index.cshtml",
+              "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Index.cshtml",
+              "RelativeToolTip": "TextEditor\\Views\\Docs\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T12:12:44.7Z",
+              "WhenOpened": "2025-03-16T20:26:21.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TextEditor\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TextEditor\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T12:05:39.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T12:05:39.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Create.cshtml",
               "RelativeDocumentMoniker": "TextEditor\\Views\\Docs\\Create.cshtml",
               "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Views\\Docs\\Create.cshtml",
               "RelativeToolTip": "TextEditor\\Views\\Docs\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-09T11:59:51.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Program.cs",
               "RelativeDocumentMoniker": "TextEditor\\Program.cs",
               "ToolTip": "C:\\Users\\kenan\\source\\repos\\TextEditor\\TextEditor\\Program.cs",
               "RelativeToolTip": "TextEditor\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T11:45:35.148Z",
               "EditorCaption": ""
