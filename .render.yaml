@@ -1,0 +1,8 @@
+services:
+  - name: asp-texteditor-app
+    type: web
+    buildCommand: "dotnet publish -c Release -o out"
+    startCommand: "dotnet out/TextEditor.dll"
+    envVars:
+      - key: DOTNET_ROOT
+        value: "/opt/render/.dotnet"
